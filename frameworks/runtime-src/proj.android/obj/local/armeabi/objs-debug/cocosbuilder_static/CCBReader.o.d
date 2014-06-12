@@ -1,0 +1,326 @@
+obj/local/armeabi/objs-debug/cocosbuilder_static/CCBReader.o: \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBReader.cpp \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/ctype.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCDirector.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCPlatformMacros.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/ccConfig.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCPlatformConfig.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/android/CCPlatformDefine.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCRef.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/ccTypes.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCGeometry.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/ccMacros.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCConsole.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/android/CCStdC.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCMath.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec2.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCMathBase.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec2.inl \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec2.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec3.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec3.inl \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec3.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Mat4.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec4.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec4.inl \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Mat4.inl \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec4.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Mat4.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Quaternion.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Quaternion.inl \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/android/CCGL.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ /Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCVector.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCLabelAtlas.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCAtlasNode.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCNode.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventDispatcher.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventListener.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEvent.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCScriptSupport.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/CCCommon.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCTouch.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventTouch.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventKeyboard.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCProtocols.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCTexture2D.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCAffineTransform.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/ccGLStateCache.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCQuadCommand.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCRenderCommand.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCGLProgramState.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCRenderCommandPool.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/CCFileUtils.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCValue.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCData.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCScene.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./physics/CCPhysicsWorld.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCSpriteFrameCache.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCSpriteFrame.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCMap.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCTextureCache.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/CCImage.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBReader.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBSequence.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBSequenceProperty.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBKeyframe.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCControl.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCControlUtils.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCSprite.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCTextureAtlas.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./physics/CCPhysicsBody.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./physics/CCPhysicsShape.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCCustomCommand.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/../../ExtensionMacros.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCLayer.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCNodeLoader.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCInvocation.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCControl.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCNodeLoaderLibrary.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCNodeLoaderListener.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBMemberVariableAssigner.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBSelectorResolver.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions//GUI/CCControlExtension/CCInvocation.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBAnimationManager.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCActionInterval.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCAction.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCAnimation.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCActionInstant.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCActionEase.h \
+ /Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/ExtensionMacros.h \
+ /Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/ctype.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCDirector.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCPlatformMacros.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/ccConfig.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCPlatformConfig.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/android/CCPlatformDefine.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCRef.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/ccTypes.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCGeometry.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/ccMacros.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCConsole.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/android/CCStdC.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCMath.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec2.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCMathBase.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec2.inl:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec2.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec3.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec3.inl:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec3.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Mat4.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec4.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec4.inl:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Mat4.inl:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Vec4.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Mat4.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Quaternion.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/Quaternion.inl:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/android/CCGL.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCVector.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCLabelAtlas.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCAtlasNode.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCNode.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventDispatcher.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventListener.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEvent.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCScriptSupport.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/CCCommon.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCTouch.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventTouch.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCEventKeyboard.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCProtocols.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCTexture2D.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./math/CCAffineTransform.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/ccGLStateCache.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCQuadCommand.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCRenderCommand.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCGLProgramState.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCRenderCommandPool.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/CCFileUtils.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCValue.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCData.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCScene.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./physics/CCPhysicsWorld.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCSpriteFrameCache.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCSpriteFrame.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./base/CCMap.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCTextureCache.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./platform/CCImage.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBReader.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBSequence.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBSequenceProperty.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBKeyframe.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCControl.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCControlUtils.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCSprite.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCTextureAtlas.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./physics/CCPhysicsBody.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./physics/CCPhysicsShape.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./renderer/CCCustomCommand.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/../../ExtensionMacros.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCLayer.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCNodeLoader.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCInvocation.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/GUI/CCControlExtension/CCControl.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCNodeLoaderLibrary.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCNodeLoaderListener.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBMemberVariableAssigner.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBSelectorResolver.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions//GUI/CCControlExtension/CCInvocation.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/CCBAnimationManager.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCActionInterval.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCAction.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCAnimation.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCActionInstant.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/./2d/CCActionEase.h:
+
+/Users/fanyou/workspace/cocos2d-js-v3.0-beta/projects/fanyoybird/frameworks/runtime-src/proj.android/../../js-bindings/cocos2d-x/cocos/editor-support/cocosbuilder/../../../extensions/ExtensionMacros.h:
+
+/Users/fanyou/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream:
