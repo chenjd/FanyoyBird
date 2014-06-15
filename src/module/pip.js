@@ -93,10 +93,10 @@ logic.pipMgr = cc.Layer.extend({
         };
         if(this._pipdowns[0] !== undefined){
             for(var x in this._pipdowns){
-                if(this._pipdowns[x].getPosition().x > 200 - 73/2 && this._pipdowns[x].getPosition().x < 200){
+                if(this._pipdowns[x].getPosition().x > 200 - 80/2 && this._pipdowns[x].getPosition().x < 200){
                     this._scoreNum++;
                     this._score.setString(this._scoreNum);
-                    if(this.sprite.getPosition().y > this._pipdowns[x].getPosition().y - 490/2 || this.sprite.getPosition().y < this._pipups[x].getPosition().y + 500/2){
+                    if(this.sprite.getPosition().y > this._pipdowns[x].getPosition().y - 500/2 || this.sprite.getPosition().y < this._pipups[x].getPosition().y + 500/2){
                         audioEngine.playEffect(HURT_FILE);
                         this.sprite.removeFromParent();
                         cc.director.getActionManager().pauseAllRunningActions();
